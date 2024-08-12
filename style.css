@@ -1,0 +1,19 @@
+.logo {
+    display: block;
+    margin: 50px auto;
+    width: 1000px;
+    height: auto;
+}
+
+
+.flex-container {
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+    margin-right: 10px; /* Ajusta a margem direita para separar a imagem do subtítulo */
+}
+
