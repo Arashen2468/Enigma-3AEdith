@@ -3,6 +3,10 @@ border: 2px solid black;
 text-align: center;
 width: 15px;
 height: 15px;
+font-size: 10px;
+word-break: break-word;
+margin-left: 300px;
+position: absolute;
 }
 
 .elenco{
