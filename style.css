@@ -1,4 +1,9 @@
-
+.text{
+border: 2px solid black;
+text-align: center;
+width: 15px;
+height: 15px;
+}
 
 .elenco{
     text-align: center;
